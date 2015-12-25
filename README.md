@@ -1,6 +1,6 @@
 # GMShare
 <p>对Mob的Share进行简易封装</p>
-<p>![image](https://github.com/wang0714/GMShare/blob/master/gif/aa.gif)</p>
+![image](https://github.com/wang0714/GMShare/blob/master/gif/aa.gif)
 <p>使用pod集成，导入以下框架就行了</p>
 <p>pod 'ShareSDK3'</p>
 <p>pod 'ShareSDK3/ShareSDKPlatforms/QQ'</p>
